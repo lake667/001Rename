@@ -1,0 +1,10 @@
+D:\ZjqWork2022\CCC\20220725Rename2\Rename\Rename\bin\Debug\Rename.exe.config
+D:\ZjqWork2022\CCC\20220725Rename2\Rename\Rename\bin\Debug\Rename.exe
+D:\ZjqWork2022\CCC\20220725Rename2\Rename\Rename\bin\Debug\Rename.pdb
+D:\ZjqWork2022\CCC\20220725Rename2\Rename\Rename\obj\Debug\Rename2022V1001.csproj.AssemblyReference.cache
+D:\ZjqWork2022\CCC\20220725Rename2\Rename\Rename\obj\Debug\Rename.Form_RenameProgram.resources
+D:\ZjqWork2022\CCC\20220725Rename2\Rename\Rename\obj\Debug\Rename.Properties.Resources.resources
+D:\ZjqWork2022\CCC\20220725Rename2\Rename\Rename\obj\Debug\Rename2022V1001.csproj.GenerateResource.cache
+D:\ZjqWork2022\CCC\20220725Rename2\Rename\Rename\obj\Debug\Rename2022V1001.csproj.CoreCompileInputs.cache
+D:\ZjqWork2022\CCC\20220725Rename2\Rename\Rename\obj\Debug\Rename.exe
+D:\ZjqWork2022\CCC\20220725Rename2\Rename\Rename\obj\Debug\Rename.pdb
